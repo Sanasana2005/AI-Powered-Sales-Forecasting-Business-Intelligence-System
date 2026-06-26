@@ -69,6 +69,10 @@ Objective:
 
 ---
 
+## Dashboard Preview
+<img width="1919" height="992" alt="Dashboard" src="https://github.com/user-attachments/assets/7a04db9a-5ebb-48f4-affc-ff797595fb24" />
+
+
 ##  Author
 
 Sana Sanadi
